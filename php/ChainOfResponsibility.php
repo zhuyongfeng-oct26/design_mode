@@ -6,6 +6,8 @@
  * Time: 22:45
  */
 
+//职责链模式
+
 abstract class FilterChain
 {
     protected $next;
